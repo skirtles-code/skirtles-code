@@ -1,12 +1,13 @@
 ### Creations
 
-- CORS FAQ: https://cors-errors.info/ - [[repo](https://github.com/cors-errors/cors-errors.github.io)]
 - My Vue 3 examples: https://skirtles-code.github.io/vue-examples/ - [[repo](https://github.com/skirtles-code/vue-examples)]
+- vue-vnode-utils: https://skirtles-code.github.io/vue-vnode-utils/ - [[repo](https://github.com/skirtles-code/vue-vnode-utils)]
+- CORS FAQ: https://cors-errors.info/ - [[repo](https://github.com/cors-errors/cors-errors.github.io)]
 
 ### Contributions
 
 - Vue 3 docs (lots): https://github.com/vuejs/docs/commits?author=skirtles-code
-- Vue 3 (few): https://github.com/vuejs/vue-next/commits?author=skirtles-code
+- Vue 3 core (few): https://github.com/vuejs/core/commits?author=skirtles-code
 
 ### Elsewhere
 
