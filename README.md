@@ -2,6 +2,7 @@
 
 - My Vue 3 examples: https://skirtles-code.github.io/vue-examples/ - [[repo](https://github.com/skirtles-code/vue-examples)]
 - vue-vnode-utils: https://skirtles-code.github.io/vue-vnode-utils/ - [[repo](https://github.com/skirtles-code/vue-vnode-utils)]
+- create-vue-lib: https://skirtles-code.github.io/create-vue-lib/ - [[repo](https://github.com/skirtles-code/create-vue-lib/)]
 - CORS FAQ: https://cors-errors.info/ - [[repo](https://github.com/cors-errors/cors-errors.github.io)]
 
 ### Commits on GitHub
